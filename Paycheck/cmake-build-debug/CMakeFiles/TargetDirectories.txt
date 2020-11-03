@@ -1,0 +1,3 @@
+C:/Users/brans/CLionProjects/LearningC/Paycheck/cmake-build-debug/CMakeFiles/Paycheck.dir
+C:/Users/brans/CLionProjects/LearningC/Paycheck/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/brans/CLionProjects/LearningC/Paycheck/cmake-build-debug/CMakeFiles/rebuild_cache.dir
